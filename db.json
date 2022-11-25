@@ -1,52 +1,52 @@
 {
   "Tweets": [
     {
-      "title": "",
-      "id": "01GJ4R188PZX09MT9C5W35ZE31",
+      "title": "お試し",
+      "id": "01GJPA6KXMRF6ERYJ1TQVZMM3W",
       "contents": [
         {
-          "id": "01GJ4R188PEA6KGCXPTXPGRXNP",
-          "text": "一度長文を書いてみようか、どんなサイズが適切なのか自分でもよくわかっていないのだけれどね。\nそうだねえ、今の課題はとりあずTwitterのデザインをできる限り〇パクリするところだねえ。現時点で7割は作ったから、あと2割詰めるだけ。\n詰めたあとにスレッド機能の方を実装していかないといけない。課"
+          "id": "01GJPA6KXMS8N9KN545PPKDSFT",
+          "text": "ぜひツイートしてみてください。"
         }
       ]
     },
     {
-      "title": "",
-      "id": "01GJ4REYW27N30EN5RZ6B6ESK2",
+      "title": "課題",
+      "id": "01GJPAEJWFWJHEY0SRZNM62HSR",
       "contents": [
         {
-          "id": "01GJ4REYW2Y86N6E79F0QPT4NS",
-          "text": "サンプルだわさーーーーーー\n　　　　　　　　　　　　　　いえええええええい\n"
+          "id": "01GJPAEJWF77MCMQ4PMQ4DYPMS",
+          "text": "また、課題も多いです。\n\n・無駄なレンダリングの排除\n・似てるコンポーネントの共通化\n・最適なデータベース設計\netc."
         }
       ]
     },
     {
-      "title": "123",
-      "id": "01GJ4RQG8PEQSDDKWV1YSJ5Q10",
+      "title": "予定",
+      "id": "01GJPA625A4WY7C82EDC3Y1X3E",
       "contents": [
         {
-          "id": "01GJ4RQG8PCNZ0D7JX4XVNJ8V1",
-          "text": "もう一個だけここにサンプル置いとくねw\n\n"
+          "id": "01GJPA625A12CYEWG9G054EF5R",
+          "text": "今後、追加予定の機能は多いです。\n\n例えば：\n・ラベル機能（ハッシュタグで作る）\n・スレッド機能（長文に対応）\n・ピン機能（トップにピン止めする）\netc."
         }
       ]
     },
     {
-      "title": "",
-      "id": "01GJ4T95QY51CGBPJ135WN5HAW",
+      "title": "紹介②",
+      "id": "01GJPA27G9B7C8PBGB2C73A3KT",
       "contents": [
         {
-          "id": "01GJ4T95QYKWNXH697YBRFXE5R",
-          "text": "123"
+          "id": "01GJPA27G9CDNK1X2TBPH2EEDE",
+          "text": "とりあえず、ver1.0という形でデプロイしました。\n\n最低限の機能だけを持っています。\n・ツイート\n・削除\n・整列"
         }
       ]
     },
     {
-      "title": "",
-      "id": "01GJ4TACZX0ZG0XEQTQ17RWXBE",
+      "title": "紹介①",
+      "id": "01GJPA05S4P7QY7KN8XMR74M4C",
       "contents": [
         {
-          "id": "01GJ4TACZX6MZX9WF914S90GHM",
-          "text": "g"
+          "id": "01GJPA05S44W1WHM58WTCWNA38",
+          "text": "これはTwitter Memo（仮）です。\n\nTwitterライクな、というか、ほぼTwitterなメモアプリです。"
         }
       ]
     }
